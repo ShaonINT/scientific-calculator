@@ -166,7 +166,6 @@ class Calculator {
             case 'fact': this.expression += '!'; break;
             case 'pi': this.expression += 'π'; break;
             case 'e': this.expression += 'e'; break;
-            case 'e': this.expression += 'e'; break;
             case 'exp': this.expression += '*10^'; break; // x10x
             case 'eng':
                 this.cycleEng();
