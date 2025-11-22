@@ -170,10 +170,13 @@ Contributions are welcome! Feel free to:
 - Submit pull requests
 - Improve documentation
 
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Shaon Biswas** - Scientific Calculator
+**SB** - Scientific Calculator
 
 ---
 
