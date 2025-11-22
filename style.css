@@ -213,14 +213,14 @@ body {
     border-radius: 16px;
     /* Rounded rects */
     font-family: var(--font-main);
-    font-size: clamp(1rem, 2.2vh, 1.5rem);
+    font-size: clamp(0.95rem, 2vh, 1.4rem);
     font-weight: 500;
     cursor: pointer;
     display: flex;
     justify-content: center;
     align-items: center;
     transition: transform 0.1s, filter 0.1s;
-    height: clamp(44px, 6.5vh, 62px);
+    height: clamp(40px, 5.5vh, 58px);
     /* Fluid height for all screens */
 }
 
