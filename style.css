@@ -291,15 +291,15 @@ body {
 /* Large Screens (S25 Ultra, iPhone Pro Max) */
 @media (min-height: 850px) {
     .keypad-container {
-        padding: 2rem;
-        gap: 1.5rem;
-        flex: 0 0 65%;
-        /* Take up 65% of screen height */
+        padding: 1.5rem;
+        gap: 1rem;
+        flex: 1;
+        /* Fill available space */
     }
 
     .btn {
-        height: 75px;
-        /* Larger touch targets */
+        height: 65px;
+        /* Slightly larger but safe */
         font-size: 1.5rem;
         border-radius: 20px;
     }
