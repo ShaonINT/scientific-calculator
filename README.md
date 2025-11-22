@@ -2,7 +2,7 @@
 
 A modern, mobile-first scientific calculator built with vanilla HTML, CSS, and JavaScript.
 
-![SB Scientific Calculator(https://shaonint.github.io/scientific-calculator/))
+SB Scientific Calculator(https://shaonint.github.io/scientific-calculator/))
 
 ## 🚀 Features
 
@@ -42,8 +42,5 @@ A modern, mobile-first scientific calculator built with vanilla HTML, CSS, and J
 ## 📱 Mobile Support
 The app is designed to be "installable" as a PWA (Progressive Web App) or simply used as a mobile website. It features large touch targets and a layout optimized for one-handed use.
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](issues).
-
-## 📝 License
-This project is [MIT](LICENSE) licensed.
+## 🤝 Powered By
+Gemini, Google Antigravity
