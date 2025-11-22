@@ -1,6 +1,6 @@
 {
-  "name": "Scientific Calculator",
-  "short_name": "Calc",
+  "name": "SB Scientific Calculator",
+  "short_name": "SB Calc",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
